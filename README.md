@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**hericmr/hericmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello World! 👋
+
+I'm a Social Work student at Universidade Federal de São Paulo interested in Ecology, Marxism, and Python programming through the CS50 Harvard course.
+
+- 🔭 Exploring the intersections between social work, ecology, and Marxist principles.
+- 🌱 Learning Python through CS50 to delve into data analysis for understanding socio-environmental issues.
+- 👯 Open to collaborating on projects related to social justice, ecological sustainability, or Python-based initiatives.
+- 💬 Let's discuss social issues, ecological sustainability, or Python programming!
+- 📫 Reach me at [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br).
+- 😄 Pronouns: He/Him
+- 🌿 "Ecology without class struggle is gardening." - Chico Mendes
+
+Feel free to connect, exchange ideas, or collaborate on good projects!
+
+---
