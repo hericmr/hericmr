@@ -12,8 +12,7 @@ I'm a Social Work student at Universidade Federal de São Paulo interested in Ec
 - 💬 Let's discuss social issues, ecological sustainability, or Python programming!
 - 📫 Reach me at [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br).
 - 😄 Pronouns: He/Him
-- 🌿 "Ecology without class struggle is gardening." - Chico Mendes
 
-Feel free to connect, exchange ideas, or collaborate on good projects!
+``"Ecology without class struggle is gardening." - Chico Mendes``
 
 ---
