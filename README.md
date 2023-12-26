@@ -4,7 +4,7 @@
 
 ## Hello World! 👋
 
-I'm a Social Work student at Universidade Federal de São Paulo interested in Ecology, Marxism, and Python programming through the CS50 Harvard course.
+I'm a Social Work student at Universidade Federal de São Paulo interested in Ecology, Marxism, and Python programming.
 
 - 🔭 Exploring the intersections between social work, ecology, and Marxist principles.
 - 🌱 Learning Python through CS50 to delve into data analysis for understanding socio-environmental issues.
