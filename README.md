@@ -10,7 +10,7 @@ I'm a Social Work student at Universidade Federal de São Paulo interested in Ec
 
 > "Ecology without class struggle is gardening." - Chico Mendes
 
-> Artigos: [A Miséria da Ontologia]([mailto:heric.moura@unifesp.br](https://hericmr.github.io/miseria_da_ontologia/)
+> Artigos: [A Miséria da Ontologia](https://hericmr.github.io/miseria_da_ontologia/)
 ---
 
 > Tools I've worked with: 
