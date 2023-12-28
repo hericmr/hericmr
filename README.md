@@ -1,6 +1,5 @@
 # Hello, World! I'm Héric Moura!
-
-I'm a Social Work student at Universidade Federal de São Paulo with interests in Ecology, Marxism, and Python programming.
+Social Work student at Universidade Federal de São Paulo with interests in Ecology, Marxism, and Python programming.
 
 - 🌱 Currently learning Python.
 - 👯 Open to collaborating on projects related to social justice, ecological revolution, or Python-based initiatives.
