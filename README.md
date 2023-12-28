@@ -15,6 +15,6 @@ CS50's Introduction to Programming with Python course from Harvard University.
 - Python
 - Django
 - OpenCV
-- 
+  
 ## Articles
 Check out at [https://hericmr.github.io/miseria_da_ontologia/](https://hericmr.github.io/miseria_da_ontologia/)
