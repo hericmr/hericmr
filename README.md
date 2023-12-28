@@ -1,19 +1,20 @@
+# Hello, World! I'm Héric Moura!
 
-## Hello World! 
+I'm a Social Work student at Universidade Federal de São Paulo with interests in Ecology, Marxism, and Python programming.
 
-I'm a Social Work student at Universidade Federal de São Paulo interested in Ecology, Marxism, and Python programming.
-
-- 🌱 Learning Python through CS50Python.
+- 🌱 Currently learning Python.
 - 👯 Open to collaborating on projects related to social justice, ecological revolution, or Python-based initiatives.
-- 📫 Reach me at [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br).
+- 📫 Reach me at heric.moura@unifesp.br.
 
- "Ecology without class struggle is gardening." - Chico Mendes
+"Ecology without class struggle is gardening." - Chico Mendes
 
-> Artigos: [https://hericmr.github.io/miseria_da_ontologia/](https://hericmr.github.io/miseria_da_ontologia/)
+## Articles
+Check out at [https://hericmr.github.io/miseria_da_ontologia/](https://hericmr.github.io/miseria_da_ontologia/)
 
-> Tools I've worked with: 
+## Certifications
+I've completed the CS50's Introduction to Programming with Python course from Harvard University. [See my certificate here](https://cs50.harvard.edu/certificates/9537dc35-e94f-4415-b755-8ccbf17f4540).
 
+## Tools I've worked with
 - Python
 - Django
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dodekafonos&langs_count=12&layout=compact&theme=gruvbox" align="right">
+- OpenCV
