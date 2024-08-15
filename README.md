@@ -1,9 +1,5 @@
 # Héric Moura
 
-![Héric Moura](heric.png)
-
-## Sobre Mim
-
 Sou estudante de Programação em Python e Serviço Social na Universidade Federal de São Paulo (UNIFESP). Resido em Santos, Brasil. Atualmente, estou aprofundando meus conhecimentos na linguagem Python e suas possibilidades. Estou comprometido em aprimorar minhas habilidades e explorar novos horizontes. Estou ansioso para participar de projetos alinhados aos princípios de justiça social, revolução ecológica e iniciativas baseadas em Python e na web.
 
 ## Certificações
