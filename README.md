@@ -1,32 +1,46 @@
 # Héric Moura
 
-Sou estudante de Programação em Python e Serviço Social na Universidade Federal de São Paulo (UNIFESP). Resido em Santos, Brasil. Atualmente, estou aprofundando meus conhecimentos na linguagem Python e suas possibilidades. Estou comprometido em aprimorar minhas habilidades e explorar novos horizontes. Estou ansioso para participar de projetos alinhados aos princípios de justiça social, revolução ecológica e iniciativas baseadas em Python e na web.
+I’m Héric Moura, currently a Social Work student at the Federal University of São Paulo (UNIFESP) and an independent Python programming learner. I live in Santos, Brazil, and I'm looking for projects that promote social justice, ecological revolution, and are based on Python and the web.
 
-## Certificações
+## 📜 About Me
+
+I am dedicated to expanding my knowledge of Python and its various applications, aiming to participate in projects with a positive social impact.
+
+## 🎓 Certifications
 
 - [CS50's Introduction to Programming with Python, Harvard University](https://cs50.harvard.edu/certificates/9537dc35-e94f-4415-b755-8ccbf17f4540)
 
-## Projetos
+## 📂 Projects
 
-- [El Vigilante](https://github.com/hericmr/El-Vigilante): Aplicativo que permite aos usuários visualizar feeds de câmeras em tempo real de locais selecionados em Santos, Brasil. Este app, desenvolvido em Python, utiliza as câmeras públicas fornecidas pelo governo da cidade de Santos para uma vigilância virtual.
+- **[Lindiflix](https://hericmr.github.io/Lindiflix)**  
+  A site showcasing some of the works produced by students from the Intercultural Indigenous Licentiate program at UNIFESP in 2024, including videos of children sharing their daily lives, knowledge, games, and community. It’s an invitation to explore the diversity of São Paulo’s indigenous peoples.
 
-- [O Caiçara](https://github.com/hericmr/ocaicara): Jogo de geolocalização ambientado em Santos, SP, onde os jogadores, como Chorão, identificam rapidamente bairros da cidade. O jogo, desenvolvido em Python usando Pygame, é projetado para fins educacionais e de entretenimento.
+- **[Vigilante](https://github.com/hericmr/El-Vigilante)**  
+  An application that allows users to view real-time camera feeds from select locations in Santos, Brazil. This Python-powered app leverages public cameras provided by the Santos city government for virtual monitoring.
 
-## Formação
+- **[O Caiçara](https://github.com/hericmr/ocaicara)**  
+  A geolocation game set in Santos, SP, where players, as Chorão, quickly identify city neighborhoods. Developed in Python using Pygame, the game is designed for educational and entertainment purposes.
 
-- Conclusão dos estudos em Serviço Social na UNIFESP.
+## 🎓 Education
 
-## Artigos
+- Finishing my studies in Social Work at UNIFESP.
 
-- [Alienação e Automação: O Impacto das IAs e do GPT no Mundo do Trabalho](https://contrapoder.net/artigo/alienacao-e-automatizacao-o-impacto-das-ias-e-do-gpt-no-mundo-do-trabalho/)
-- [A Miséria da Ontologia](https://hericmr.github.io/miseria_da_ontologia/)
+## 📝 Articles
 
-## Ferramentas com as quais trabalhei
+- [Alienation and Automation: The Impact of AI and GPT on the World of Work](https://contrapoder.net/artigo/alienacao-e-automatizacao-o-impacto-das-ias-e-do-gpt-no-mundo-do-trabalho/)
+
+## 🔧 Tools
 
 - Python
 - Django
 - OpenCV
+- Pygame
+- HTML
+- CSS
+- GitHub
 
-## Contato
+## 📫 Contact
 
- Sinta-se à vontade para entrar em contato comigo pelo e-mail [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br).
+📧 Feel free to connect with me at: [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br)
+
+---
