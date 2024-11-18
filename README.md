@@ -1,10 +1,6 @@
 # Héric Moura
 
-I’m Héric Moura, currently a Social Work student at the Federal University of São Paulo (UNIFESP) and an independent Python programming learner. I live in Santos, Brazil, and I'm looking for projects that promote social justice, ecological revolution, and are based on Python and the web.
-
-## 📜 About Me
-
-I am dedicated to expanding my knowledge of Python and its various applications, aiming to participate in projects with a positive social impact.
+I’m Héric Moura, currently a Social Work student at the Federal University of São Paulo (UNIFESP) and an independent Python programming learner. I live in Santos, Brazil, and I'm looking for projects that promote social justice, ecological revolution, and are based on Python and the web. I am dedicated to expanding my knowledge of Python and its various applications, aiming to participate in projects with a positive social impact.
 
 ## 🎓 Certifications
 
