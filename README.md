@@ -15,7 +15,7 @@ I’m Héric Moura, currently a Social Work student at the Federal University of
   A site showcasing some of the works produced by students from the Intercultural Indigenous Licentiate program at UNIFESP in 2024, including videos of children sharing their daily lives, knowledge, games, and community. It’s an invitation to explore the diversity of São Paulo’s indigenous peoples.
 
 - **[Vigilante](https://github.com/hericmr/El-Vigilante)**  
-  An application that allows users to view real-time camera feeds from select locations in Santos, Brazil. This Python-powered app leverages public cameras provided by the Santos city government for virtual monitoring.
+  An application that allows users to view real-time camera feeds from select locations in Santos, Brazil. This Python-powered app leverages public cameras provided by the Santos city government for virtual monitoring. The simple website version can be found in: [https://hericmr.github.io/cameras](https://hericmr.github.io/cameras)
 
 - **[O Caiçara](https://github.com/hericmr/ocaicara)**  
   A geolocation game set in Santos, SP, where players, as Chorão, quickly identify city neighborhoods. Developed in Python using Pygame, the game is designed for educational and entertainment purposes.
