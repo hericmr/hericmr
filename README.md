@@ -8,7 +8,7 @@ I’m Héric Moura, currently a Social Work student at the Federal University of
 
 ## 📂 Projects
 
-- **[Concurseira Pobre](https://hericmr.github.io/ConcurseiraPobre)**  
+- **[Concurseira Pobre] - Site link:(https://hericmr.github.io/ConcurseiraPobre)**  
   A free website offering a comprehensive collection of questions from the AVANÇA SP exam board to support efficient, no-cost exam preparation. Users can access past questions, practice, and maximize their success chances in upcoming tests. The backend was maked with Python (for web scraping past exams and answer keys from AVANÇA SP, with efficient data processing for display, this Python files used in web scraping and processing can be found in the repository: [https://github.com/hericmr/webscrapping_concurseira](https://github.com/hericmr/webscrapping_concurseira)
 
 - **[Lindiflix](https://hericmr.github.io/Lindiflix)**  
