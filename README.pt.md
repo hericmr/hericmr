@@ -1,13 +1,5 @@
 # Héric Moura
 
-## 🌐 Language / Idioma / Idioma
-- [English](README.en.md)
-- [Español](README.es.md)
-- [Português](README.pt.md)
-
-## 📝 About this repository
-This repository contains my personal portfolio in three languages. Choose your preferred language above to view the content.
-
 ## Sobre Mim
 Sou um estudante de Serviço Social na Universidade Federal de São Paulo (UNIFESP) e um desenvolvedor Python independente. Resido em Santos, Brasil, e busco projetos que promovam justiça social, revolução ecológica e sejam baseados em Python e web. Dedico-me a expandir meu conhecimento em Python e suas diversas aplicações, visando participar de projetos com impacto social positivo.
 
@@ -17,7 +9,7 @@ Sou um estudante de Serviço Social na Universidade Federal de São Paulo (UNIFE
 ## Certificações
 - [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/certificates/a8bad3df-610c-4d32-9d61-a5ebff587112) - Harvard University
 - [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/certificates/9537dc35-e94f-4415-b755-8ccbf17f4540) - Harvard University
-- Python for Data Science - Universidade de São Paulo (USP) 
+- Python for Data Science - Universidade de São Paulo (USP) - 2º semestre 2024 (40h)
 
 ## Projetos em Destaque
 
@@ -47,4 +39,4 @@ Jogo de geolocalização em Python/Pygame ambientado em Santos, SP, onde jogador
 
 ## Contato
 - Email: [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br)
-- GitHub: [hericmr](https://github.com/hericmr)
+- GitHub: [hericmr](https://github.com/hericmr) 
