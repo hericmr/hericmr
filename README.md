@@ -33,8 +33,8 @@ Portal exibindo trabalhos produzidos por estudantes do programa de Licenciatura 
 ### [Vigilante](https://github.com/hericmr/El-Vigilante)
 Aplicação Python para visualização em tempo real de câmeras públicas de Santos, SP. Os dados das câmeras foram obtidos através de requisições HTTPS, utilizando endpoints disponíveis na internet. Versão web disponível em: [cameras](https://hericmr.github.io/cameras)
 
-### [O Caiçara](https://github.com/hericmr/ocaicara)
-Jogo de geolocalização em Python/Pygame ambientado em Santos, SP, onde jogadores identificam bairros da cidade como o Chorão.
+### [O Geosantos](https://github.com/hericmr/geosantos)
+Jogo de geolocalização em Python/Pygame ambientado em Santos, SP, onde jogadores identificam bairros da cidade.
 
 ## Publicações
 - [Mudanças Climáticas: Deslizamentos na Baixada Santista e a Responsabilidade Socioambiental do Estado](https://doi.org/10.58422/releo2024.e1603) - Co-autoria com Leonardo Bernardes Guimarães e Edson Ricardo Saleme
