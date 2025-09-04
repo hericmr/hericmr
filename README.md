@@ -39,6 +39,11 @@ Jogo educativo em Python/Pygame, onde jogadores identificam bairros de Santos.
 
 ## Stack Tecnológica
 
+## Stack Tecnológica (dinâmica)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hericmr&layout=compact&langs_count=6)
+
+
 | Área       | Tecnologias |
 |------------|-------------|
 | **Backend**   | Python, Django |
