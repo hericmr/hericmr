@@ -16,11 +16,11 @@ Sou um estudante de Serviço Social na Universidade Federal de São Paulo (UNIFE
 
 ## Projetos em Destaque
 
-### 🗺 [Cartografia Social de Santos](https://hericmr.github.io/cartografiasocial)
+###[Cartografia Social de Santos](https://hericmr.github.io/cartografiasocial)
 Mapa dinâmico desenvolvido em parceria com **Leandro Fadelli**, registrando as territorialidades e lutas dos movimentos sociais em Santos/SP. Produzido junto a estudantes de Serviço Social da UNIFESP na disciplina **Política Social 2 (2024–2025)**.  
 ### [Concurseira Pobre](https://hericmr.github.io/ConcurseiraPobre)
 Plataforma gratuita que reúne questões do **AVANÇA SP** para apoiar concurseiras e concurseiros em sua preparação, sem custos. Desenvolvido com **Python** para coleta de dados e organização do conteúdo.  
-### 🎞 [Lindiflix](https://hericmr.github.io/Lindiflix)
+###[Lindiflix](https://hericmr.github.io/Lindiflix)
 Portal que apresenta produções acadêmicas de estudantes do programa de Licenciatura Intercultural Indígena (**UNIFESP/2024**), celebrando a diversidade dos povos indígenas de São Paulo. O projeto foi divulgado em diferentes canais da universidade e redes sociais: [Instagram](https://www.instagram.com/p/DIoXejlo6I6/), [Portal ProEC](https://proreitoria.unifesp.br/proec/noticias/dia-dos-povos-indigenas-criancas-registram-seu-cotidiano-no-lindiflix) e [Facebook](https://www.facebook.com/Unifespoficial/posts/-no-dia-dos-povos-ind%C3%ADgenas-mergulhe-na-riqueza-cultural-e-no-cotidiano-das-alde/992617003047966/).  
 ### 👁 [Vigilante](https://github.com/hericmr/El-Vigilante)
 Aplicativo em **Python** para visualizar em tempo real câmeras públicas de Santos/SP, utilizando requisições HTTPS a partir de endpoints abertos. [Versão web disponível](https://hericmr.github.io/cameras).  
