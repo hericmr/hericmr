@@ -3,7 +3,7 @@
 Sou um estudante de Serviço Social na Universidade Federal de São Paulo (UNIFESP) e um desenvolvedor Python independente. Resido em Santos, Brasil, e busco projetos que promovam justiça social, revolução ecológica e sejam baseados em Python e web. Dedico-me a expandir meu conhecimento em Python e suas diversas aplicações, visando participar de projetos com impacto social positivo.
 
 ## Formação
-- **Serviço Social** — Universidade Federal de São Paulo (**UNIFESP**) — *Em andamento*
+- **Serviço Social** - Universidade Federal de São Paulo (**UNIFESP**)
 
 
 ## Certificações
