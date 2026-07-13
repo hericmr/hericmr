@@ -2,9 +2,9 @@
 
 🌐 [English](README.en.md) · [Español](README.es.md) · [Português](README.pt.md)
 
-**Desenvolvedor Python & Web** — Santos, Brasil
+**Desenvolvedor Python & Web** - Santos, Brasil
 
-Construo aplicações web, scrapers, ferramentas de visão computacional e jogos educativos, de ponta a ponta: coleta de dados, backend, frontend e publicação. Minha formação em Serviço Social (UNIFESP) orienta o que eu construo — tecnologia para justiça social, acesso público à informação e transformação ecológica.
+Construo aplicações web, scrapers, ferramentas de visão computacional e jogos educativos, de ponta a ponta: coleta de dados, backend, frontend e publicação. Minha formação em Serviço Social (UNIFESP) orienta o que eu construo - tecnologia voltada pra justiça social, acesso público à informação e revolução ecológica.
 
 **Aberto a oportunidades** como desenvolvedor (estágio, júnior ou freelance). Contato: [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br).
 
