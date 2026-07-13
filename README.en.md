@@ -1,42 +1,58 @@
 # Héric Moura
 
-## About Me
-I am a Social Work student at the Federal University of São Paulo (UNIFESP) and an independent Python developer. I live in Santos, Brazil, and seek projects that promote social justice, ecological revolution, and are based on Python and web technologies. I am dedicated to expanding my knowledge of Python and its various applications, aiming to participate in projects with positive social impact.
+**Python & Web Developer** — Santos, Brazil
 
-## Academic Background
-- **Social Work** - Federal University of São Paulo (UNIFESP) - In progress
+I build web applications, scrapers, computer vision tools and educational games, end to end: data collection, backend, frontend and deployment. My background in Social Work (UNIFESP) shapes what I build — technology for social justice, public access to information, and ecological transformation.
 
-## Certifications
-- [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/certificates/a8bad3df-610c-4d32-9d61-a5ebff587112) - Harvard University
-- [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/certificates/9537dc35-e94f-4415-b755-8ccbf17f4540) - Harvard University
-- Python for Data Science - University of São Paulo (USP) - 2nd semester 2024 (40h)
+**Open to work** as a developer (internship, junior or freelance). Reach me at [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br).
 
 ## Featured Projects
 
-### [Social Cartography of Santos](https://hericmr.github.io/cartografiasocial)
-Developed in partnership with Leandro Fadelli, it is a dynamic map that charts the territorialities and struggles of social movements in the city. The content was produced by Social Work students at UNIFESP in the Social Policy 2 curriculum unit (2024-2025).
-
 ### [Concurseira Pobre](https://hericmr.github.io/ConcurseiraPobre)
-A free platform offering a comprehensive collection of questions from the AVANÇA SP exam board for efficient, cost-free exam preparation. Developed with Python for web scraping and data processing.
+Free exam-prep platform with a question bank scraped from the AVANÇA-SP exam board. Python backend automates collection of past exams and answer keys.
+`Python` `Web Scraping` `JavaScript`
+
+### [El Vigilante](https://github.com/hericmr/El-Vigilante)
+Real-time viewer for Santos' public cameras, consuming open HTTPS endpoints, with OpenCV video analysis. [Web version here](https://hericmr.github.io/cameras).
+`Python` `OpenCV` `APIs`
+
+### [Geosantos](https://github.com/hericmr/geosantos)
+Educational geolocation game: players race to identify Santos' neighborhoods on the map.
+`TypeScript` `React`
+
+### [Social Cartography of Santos](https://hericmr.github.io/cartografiasocial)
+Dynamic map charting the territories and struggles of the city's social movements, built with Leandro Fadelli. Content produced by UNIFESP Social Work students (2024–2025).
+`React` `Geospatial Data`
 
 ### [Lindiflix](https://hericmr.github.io/Lindiflix)
-A portal showcasing works produced by students from the Intercultural Indigenous Licentiate program at UNIFESP in 2024, presenting the diversity of São Paulo's indigenous peoples.
-
-### [Vigilante](https://github.com/hericmr/El-Vigilante)
-A Python application for real-time viewing of public cameras in Santos, SP. Camera data was obtained through HTTPS requests using available internet endpoints. Web version available at: [cameras](https://hericmr.github.io/cameras)
+Portal for audiovisual works by students of UNIFESP's Intercultural Indigenous Teacher Education program (2024) — a window into the diversity of São Paulo's indigenous peoples.
+`HTML` `CSS` `JavaScript`
 
 ### [O Caiçara](https://github.com/hericmr/ocaicara)
-A Python/Pygame geolocation game set in Santos, SP, where players identify city neighborhoods as Chorão.
-
-## Publications
-- [Climate Change: Landslides in Baixada Santista and the State's Socio-Environmental Responsibility](https://doi.org/10.58422/releo2024.e1603) - Co-authored with Leonardo Bernardes Guimarães and Edson Ricardo Saleme
-- [Alienation and Automation: The Impact of AI and GPT on the World of Work](https://contrapoder.net/artigo/alienacao-e-automatizacao-o-impacto-das-ias-e-do-gpt-no-mundo-do-trabalho/)
+Geolocation game in Pygame where players identify Santos' neighborhoods as Chorão.
+`Python` `Pygame`
 
 ## Tech Stack
+
 - **Backend:** Python, Django
-- **Frontend:** React, Tailwind CSS, HTML, CSS
-- **Tools:** OpenCV, Pygame, GitHub
+- **Frontend:** TypeScript, JavaScript, React, Tailwind CSS, HTML, CSS
+- **Tools:** OpenCV, Pygame, Git/GitHub, Linux
+
+## Certifications
+
+- [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/certificates/a8bad3df-610c-4d32-9d61-a5ebff587112) — Harvard University (2025)
+- [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/certificates/9537dc35-e94f-4415-b755-8ccbf17f4540) — Harvard University (2023)
+- Python for Data Science — University of São Paulo (USP), 40h (2024)
+
+## Publications
+
+- [Climate Change: Landslides in Baixada Santista and the State's Socio-Environmental Responsibility](https://doi.org/10.58422/releo2024.e1603) — with Leonardo Bernardes Guimarães and Edson Ricardo Saleme. Leopoldianum, 2024.
+- [Alienation and Automation: The Impact of AI and GPT on the World of Work](https://contrapoder.net/artigo/alienacao-e-automatizacao-o-impacto-das-ias-e-do-gpt-no-mundo-do-trabalho/) — Contrapoder, 2024.
+
+## Academic Background
+
+- **B.A. in Social Work** — Federal University of São Paulo (UNIFESP), expected July 2026
 
 ## Contact
+
 - Email: [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br)
-- GitHub: [hericmr](https://github.com/hericmr) 
