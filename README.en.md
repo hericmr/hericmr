@@ -57,6 +57,7 @@ Geolocation game in Pygame where players identify Santos' neighborhoods as Chor�
 
 - [Climate Change: Landslides in Baixada Santista and the State's Socio-Environmental Responsibility](https://doi.org/10.58422/releo2024.e1603), with Leonardo Bernardes Guimarães and Edson Ricardo Saleme. Leopoldianum, 2024.
 - [Alienation and Automation: The Impact of AI and GPT on the World of Work](https://contrapoder.net/artigo/alienacao-e-automatizacao-o-impacto-das-ias-e-do-gpt-no-mundo-do-trabalho/), Contrapoder, 2024.
+- [State and Philanthropy in Santos](https://repositorio.unifesp.br/items/a5247f6c-32d6-4cf2-929a-b4aec4f0a17d), undergraduate thesis in Social Work, advised by Sônia Regina Nozabielli. UNIFESP, 2026.
 
 ## Academic Background
 

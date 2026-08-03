@@ -56,6 +56,7 @@ Portal com produções audiovisuais de estudantes da Licenciatura Intercultural 
 
 - [Mudanças Climáticas: Deslizamentos na Baixada Santista e a Responsabilidade Socioambiental do Estado](https://doi.org/10.58422/releo2024.e1603), com Leonardo Bernardes Guimarães e Edson Ricardo Saleme. Leopoldianum, 2024.
 - [Alienação e Automação: O Impacto das IAs e do GPT no Mundo do Trabalho](https://contrapoder.net/artigo/alienacao-e-automatizacao-o-impacto-das-ias-e-do-gpt-no-mundo-do-trabalho/), Contrapoder, 2024.
+- [Estado e Filantropia em Santos](https://repositorio.unifesp.br/items/a5247f6c-32d6-4cf2-929a-b4aec4f0a17d), TCC em Serviço Social, orientação de Sônia Regina Nozabielli. UNIFESP, 2026.
 
 ## Formação
 

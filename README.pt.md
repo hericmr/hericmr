@@ -37,6 +37,7 @@ Jogo de geolocalização feito com **Python/Pygame**, que convida jogadores a ex
 ## Publicações
 - [**Mudanças Climáticas: Deslizamentos na Baixada Santista e a Responsabilidade Socioambiental do Estado**](https://doi.org/10.58422/releo2024.e1603), com Leonardo Bernardes Guimarães e Edson Ricardo Saleme.  
 - [**Alienação e Automação: O Impacto das IAs e do GPT no Mundo do Trabalho**](https://contrapoder.net/artigo/alienacao-e-automatizacao-o-impacto-das-ias-e-do-gpt-no-mundo-do-trabalho/).  
+- [**Estado e Filantropia em Santos**](https://repositorio.unifesp.br/items/a5247f6c-32d6-4cf2-929a-b4aec4f0a17d), TCC em Serviço Social, orientação de Sônia Regina Nozabielli. UNIFESP, 2026.  
 
 ## Stack & Ferramentas
 

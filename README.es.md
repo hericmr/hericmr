@@ -37,6 +37,7 @@ Un juego de geolocalización en Python/Pygame ambientado en Santos, SP, donde lo
 ## Publicaciones
 - [Cambio Climático: Deslizamientos en Baixada Santista y la Responsabilidad Socioambiental del Estado](https://doi.org/10.58422/releo2024.e1603) - Co-autoría con Leonardo Bernardes Guimarães y Edson Ricardo Saleme
 - [Alienación y Automatización: El Impacto de las IAs y GPT en el Mundo del Trabajo](https://contrapoder.net/artigo/alienacao-e-automatizacao-o-impacto-das-ias-e-do-gpt-no-mundo-do-trabalho/)
+- [Estado y Filantropía en Santos](https://repositorio.unifesp.br/items/a5247f6c-32d6-4cf2-929a-b4aec4f0a17d), Trabajo de Fin de Grado en Trabajo Social, orientación de Sônia Regina Nozabielli. UNIFESP, 2026.
 
 ## Stack Tecnológico
 - **Backend:** Python, Django
