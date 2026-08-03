@@ -20,7 +20,7 @@ Observatório dos Professores Indígenas no Estado de São Paulo, mapeia as esco
 Jogo de cartas educativo no estilo "Connections/Solitaire de Associações" sobre o Serviço Social Brasileiro: conceitos, autoras/es, marcos históricos e o Código de Ética de 1993. Direto no navegador, sem instalação.
 
 ### 🗺 [Cartografia Social de Santos](https://hericmr.github.io/cartografiasocial)
-Mapa dinâmico desenvolvido em parceria com **Leandro Fadelli**, registrando as territorialidades e lutas dos movimentos sociais em Santos/SP. Produzido junto a estudantes de Serviço Social da UNIFESP na disciplina **Política Social 2 (2024–2025)**.  
+Mapa dinâmico desenvolvido em parceria com **Leandro Fadelli**, registrando as territorialidades e lutas dos movimentos sociais em Santos/SP. Produzido junto a estudantes de Serviço Social da UNIFESP na disciplina **Política Social 2 (2024 a 2025)**.  
 
 ### [Concurseira Pobre](https://hericmr.github.io/ConcurseiraPobre)
 Plataforma gratuita que reúne questões do **AVANÇA SP** para apoiar concurseiras e concurseiros em sua preparação, sem custos. Desenvolvido com **Python** para coleta de dados e organização do conteúdo.  

@@ -31,7 +31,7 @@ Jogo educativo de geolocalização em que o jogador identifica os bairros de San
 `TypeScript` `React`
 
 ### [Cartografia Social de Santos](https://hericmr.github.io/cartografiasocial)
-Mapa dinâmico das territorialidades e lutas dos movimentos sociais de Santos/SP, desenvolvido em parceria com Leandro Fadelli. Conteúdo produzido por estudantes de Serviço Social da UNIFESP na disciplina Política Social 2 (2024–2025).
+Mapa dinâmico das territorialidades e lutas dos movimentos sociais de Santos/SP, desenvolvido em parceria com Leandro Fadelli. Conteúdo produzido por estudantes de Serviço Social da UNIFESP na disciplina Política Social 2 (2024 a 2025).
 `React` `Mapbox GL` `Dados Georreferenciados`
 
 ### [Lindiflix](https://hericmr.github.io/Lindiflix)

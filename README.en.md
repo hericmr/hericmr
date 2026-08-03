@@ -29,7 +29,7 @@ Educational geolocation game: players race to identify Santos' neighborhoods on 
 `TypeScript` `React`
 
 ### [Social Cartography of Santos](https://hericmr.github.io/cartografiasocial)
-Dynamic map charting the territories and struggles of the city's social movements, built with Leandro Fadelli. Content produced by UNIFESP Social Work students (2024–2025).
+Dynamic map charting the territories and struggles of the city's social movements, built with Leandro Fadelli. Content produced by UNIFESP Social Work students (2024 to 2025).
 `React` `Mapbox GL` `Geospatial Data`
 
 ### [Lindiflix](https://hericmr.github.io/Lindiflix)
