@@ -13,6 +13,12 @@ Sou um estudante de Serviço Social na Universidade Federal de São Paulo (UNIFE
 
 ## Projetos em Destaque
 
+### [OPIN](https://github.com/hericmr/opin)
+Observatório dos Professores Indígenas no Estado de São Paulo — mapeia as escolas indígenas do estado.
+
+### [Paciência](https://github.com/hericmr/paciencia)
+Jogo de cartas educativo no estilo "Connections/Solitaire de Associações" sobre o Serviço Social Brasileiro: conceitos, autoras/es, marcos históricos e o Código de Ética de 1993. Direto no navegador, sem instalação.
+
 ### 🗺 [Cartografia Social de Santos](https://hericmr.github.io/cartografiasocial)
 Mapa dinâmico desenvolvido em parceria com **Leandro Fadelli**, registrando as territorialidades e lutas dos movimentos sociais em Santos/SP. Produzido junto a estudantes de Serviço Social da UNIFESP na disciplina **Política Social 2 (2024–2025)**.  
 
@@ -40,9 +46,10 @@ Jogo de geolocalização feito com **Python/Pygame**, que convida jogadores a ex
 - **Linguagem principal:** Python  
 - **Desenvolvimento web:** Django, React, Tailwind CSS  
 - **Design e front-end:** HTML, CSS  
+- **Mapas:** Leaflet, Mapbox GL, MapLibre  
 - **Bibliotecas:** OpenCV, Pygame  
 - **Versionamento e colaboração:** Git e GitHub  
 
 ## Contato
-- 📧 E-mail: [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br)  
+- 📧 E-mail: [heric.m.r@gmail.com](mailto:heric.m.r@gmail.com)  
 - 🗃️ GitHub: [hericmr](https://github.com/hericmr)  

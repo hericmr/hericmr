@@ -13,6 +13,12 @@ Soy estudiante de Trabajo Social en la Universidad Federal de São Paulo (UNIFES
 
 ## Proyectos Destacados
 
+### [OPIN](https://github.com/hericmr/opin)
+Observatorio de los Profesores Indígenas en el Estado de São Paulo — mapea las escuelas indígenas del estado.
+
+### [Paciencia](https://github.com/hericmr/paciencia)
+Juego de cartas educativo al estilo "Connections/Solitario de Asociaciones" sobre el Trabajo Social Brasileño: conceptos, autoras/es, hitos históricos y el Código de Ética de 1993. Se juega directo en el navegador, sin instalación.
+
 ### [Cartografía Social de Santos](https://hericmr.github.io/cartografiasocial)
 Desarrollado en asociación con Leandro Fadelli, es un mapa dinámico que cartografía las territorialidades y luchas de los movimientos sociales en la ciudad. El contenido fue producido por estudiantes de Trabajo Social de UNIFESP en la unidad curricular Política Social 2 (2024-2025).
 
@@ -35,8 +41,9 @@ Un juego de geolocalización en Python/Pygame ambientado en Santos, SP, donde lo
 ## Stack Tecnológico
 - **Backend:** Python, Django
 - **Frontend:** React, Tailwind CSS, HTML, CSS
+- **Mapas:** Leaflet, Mapbox GL, MapLibre
 - **Herramientas:** OpenCV, Pygame, GitHub
 
 ## Contacto
-- Email: [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br)
+- Email: [heric.m.r@gmail.com](mailto:heric.m.r@gmail.com)
 - GitHub: [hericmr](https://github.com/hericmr) 

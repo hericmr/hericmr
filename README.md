@@ -6,9 +6,17 @@
 
 Construo aplicações web, scrapers, ferramentas de visão computacional e jogos educativos, de ponta a ponta: coleta de dados, backend, frontend e publicação. Minha formação em Serviço Social (UNIFESP) orienta o que eu construo - tecnologia voltada pra justiça social, acesso público à informação e revolução ecológica.
 
-**Aberto a oportunidades** como desenvolvedor (estágio, júnior ou freelance). Contato: [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br).
+**Aberto a oportunidades** como desenvolvedor (estágio, júnior ou freelance). Contato: [heric.m.r@gmail.com](mailto:heric.m.r@gmail.com).
 
 ## Projetos em Destaque
+
+### [OPIN](https://github.com/hericmr/opin)
+Observatório dos Professores Indígenas no Estado de São Paulo — mapeia as escolas indígenas do estado.
+`JavaScript` `Mapbox GL` `Docker`
+
+### [Paciência](https://github.com/hericmr/paciencia)
+Jogo de cartas educativo no estilo "Connections/Solitaire de Associações" sobre o Serviço Social Brasileiro: conceitos, autoras/es, marcos históricos e o Código de Ética de 1993. Direto no navegador, sem instalação.
+`JavaScript` `HTML` `CSS`
 
 ### [Concurseira Pobre](https://hericmr.github.io/ConcurseiraPobre)
 Plataforma gratuita de preparação para concursos, com banco de questões da banca AVANÇA-SP. Backend em Python automatiza a coleta de provas e gabaritos via web scraping.
@@ -24,7 +32,7 @@ Jogo educativo de geolocalização em que o jogador identifica os bairros de San
 
 ### [Cartografia Social de Santos](https://hericmr.github.io/cartografiasocial)
 Mapa dinâmico das territorialidades e lutas dos movimentos sociais de Santos/SP, desenvolvido em parceria com Leandro Fadelli. Conteúdo produzido por estudantes de Serviço Social da UNIFESP na disciplina Política Social 2 (2024–2025).
-`React` `Dados Georreferenciados`
+`React` `Mapbox GL` `Dados Georreferenciados`
 
 ### [Lindiflix](https://hericmr.github.io/Lindiflix)
 Portal com produções audiovisuais de estudantes da Licenciatura Intercultural Indígena da UNIFESP (2024), celebrando a diversidade dos povos indígenas de São Paulo. Divulgado em canais da universidade: [Instagram](https://www.instagram.com/p/DIoXejlo6I6/), [Portal ProEC](https://proreitoria.unifesp.br/proec/noticias/dia-dos-povos-indigenas-criancas-registram-seu-cotidiano-no-lindiflix) e [Facebook](https://www.facebook.com/Unifespoficial/posts/-no-dia-dos-povos-ind%C3%ADgenas-mergulhe-na-riqueza-cultural-e-no-cotidiano-das-alde/992617003047966/).
@@ -34,6 +42,7 @@ Portal com produções audiovisuais de estudantes da Licenciatura Intercultural 
 
 - **Linguagem principal:** Python
 - **Desenvolvimento web:** Django, TypeScript, JavaScript, React, Tailwind CSS, HTML, CSS
+- **Mapas:** Leaflet, Mapbox GL, MapLibre
 - **Bibliotecas:** OpenCV, Pygame
 - **Ferramentas:** Git/GitHub, Linux
 
@@ -56,5 +65,5 @@ Portal com produções audiovisuais de estudantes da Licenciatura Intercultural 
 
 ## Contato
 
-- 📧 E-mail: [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br)
+- 📧 E-mail: [heric.m.r@gmail.com](mailto:heric.m.r@gmail.com)
 - 🗃️ GitHub: [hericmr](https://github.com/hericmr)

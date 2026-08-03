@@ -4,9 +4,17 @@
 
 I build web applications, scrapers, computer vision tools and educational games, end to end: data collection, backend, frontend and deployment. My background in Social Work (UNIFESP) shapes what I build — technology for social justice, public access to information, and ecological transformation.
 
-**Open to work** as a developer (internship, junior or freelance). Reach me at [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br).
+**Open to work** as a developer (internship, junior or freelance). Reach me at [heric.m.r@gmail.com](mailto:heric.m.r@gmail.com).
 
 ## Featured Projects
+
+### [OPIN](https://github.com/hericmr/opin)
+Observatory of Indigenous Teachers in the State of São Paulo — maps the state's indigenous schools.
+`JavaScript` `Mapbox GL` `Docker`
+
+### [Paciência](https://github.com/hericmr/paciencia)
+Educational card game in the style of "Connections/Solitaire of Associations" about Brazilian Social Work: concepts, authors, historical milestones and the 1993 Code of Ethics. Runs directly in the browser, no install needed.
+`JavaScript` `HTML` `CSS`
 
 ### [Concurseira Pobre](https://hericmr.github.io/ConcurseiraPobre)
 Free exam-prep platform with a question bank scraped from the AVANÇA-SP exam board. Python backend automates collection of past exams and answer keys.
@@ -22,7 +30,7 @@ Educational geolocation game: players race to identify Santos' neighborhoods on 
 
 ### [Social Cartography of Santos](https://hericmr.github.io/cartografiasocial)
 Dynamic map charting the territories and struggles of the city's social movements, built with Leandro Fadelli. Content produced by UNIFESP Social Work students (2024–2025).
-`React` `Geospatial Data`
+`React` `Mapbox GL` `Geospatial Data`
 
 ### [Lindiflix](https://hericmr.github.io/Lindiflix)
 Portal for audiovisual works by students of UNIFESP's Intercultural Indigenous Teacher Education program (2024) — a window into the diversity of São Paulo's indigenous peoples.
@@ -36,6 +44,7 @@ Geolocation game in Pygame where players identify Santos' neighborhoods as Chor�
 
 - **Backend:** Python, Django
 - **Frontend:** TypeScript, JavaScript, React, Tailwind CSS, HTML, CSS
+- **Maps:** Leaflet, Mapbox GL, MapLibre
 - **Tools:** OpenCV, Pygame, Git/GitHub, Linux
 
 ## Certifications
@@ -55,4 +64,4 @@ Geolocation game in Pygame where players identify Santos' neighborhoods as Chor�
 
 ## Contact
 
-- Email: [heric.moura@unifesp.br](mailto:heric.moura@unifesp.br)
+- Email: [heric.m.r@gmail.com](mailto:heric.m.r@gmail.com)
