@@ -14,7 +14,7 @@ Soy estudiante de Trabajo Social en la Universidad Federal de São Paulo (UNIFES
 ## Proyectos Destacados
 
 ### [OPIN](https://github.com/hericmr/opin)
-Observatorio de los Profesores Indígenas en el Estado de São Paulo — mapea las escuelas indígenas del estado.
+Observatorio de los Profesores Indígenas en el Estado de São Paulo, mapea las escuelas indígenas del estado.
 
 ### [Paciencia](https://github.com/hericmr/paciencia)
 Juego de cartas educativo al estilo "Connections/Solitario de Asociaciones" sobre el Trabajo Social Brasileño: conceptos, autoras/es, hitos históricos y el Código de Ética de 1993. Se juega directo en el navegador, sin instalación.

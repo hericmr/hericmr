@@ -7,14 +7,14 @@ Sou um estudante de Serviço Social na Universidade Federal de São Paulo (UNIFE
 
 
 ## Certificações
-- [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/certificates/a8bad3df-610c-4d32-9d61-a5ebff587112) — Harvard University  
-- [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/certificates/9537dc35-e94f-4415-b755-8ccbf17f4540) — Harvard University  
-- **Python for Data Science** — Universidade de São Paulo (**USP**)  
+- [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/certificates/a8bad3df-610c-4d32-9d61-a5ebff587112), Harvard University  
+- [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/certificates/9537dc35-e94f-4415-b755-8ccbf17f4540), Harvard University  
+- **Python for Data Science**, Universidade de São Paulo (**USP**)  
 
 ## Projetos em Destaque
 
 ### [OPIN](https://github.com/hericmr/opin)
-Observatório dos Professores Indígenas no Estado de São Paulo — mapeia as escolas indígenas do estado.
+Observatório dos Professores Indígenas no Estado de São Paulo, mapeia as escolas indígenas do estado.
 
 ### [Paciência](https://github.com/hericmr/paciencia)
 Jogo de cartas educativo no estilo "Connections/Solitaire de Associações" sobre o Serviço Social Brasileiro: conceitos, autoras/es, marcos históricos e o Código de Ética de 1993. Direto no navegador, sem instalação.
@@ -35,12 +35,10 @@ Aplicativo em **Python** para visualizar em tempo real câmeras públicas de San
 Jogo de geolocalização feito com **Python/Pygame**, que convida jogadores a explorarem bairros de Santos resgatando referências culturais da região.  
 
 ## Publicações
-- [**Mudanças Climáticas: Deslizamentos na Baixada Santista e a Responsabilidade Socioambiental do Estado**](https://doi.org/10.58422/releo2024.e1603) — com Leonardo Bernardes Guimarães e Edson Ricardo Saleme.  
+- [**Mudanças Climáticas: Deslizamentos na Baixada Santista e a Responsabilidade Socioambiental do Estado**](https://doi.org/10.58422/releo2024.e1603), com Leonardo Bernardes Guimarães e Edson Ricardo Saleme.  
 - [**Alienação e Automação: O Impacto das IAs e do GPT no Mundo do Trabalho**](https://contrapoder.net/artigo/alienacao-e-automatizacao-o-impacto-das-ias-e-do-gpt-no-mundo-do-trabalho/).  
 
 ## Stack & Ferramentas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hericmr&layout=compact&langs_count=6)  
 
 ### 🛠️ Tecnologias Principais
 - **Linguagem principal:** Python  

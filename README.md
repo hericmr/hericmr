@@ -11,7 +11,7 @@ Construo aplicações web, scrapers, ferramentas de visão computacional e jogos
 ## Projetos em Destaque
 
 ### [OPIN](https://github.com/hericmr/opin)
-Observatório dos Professores Indígenas no Estado de São Paulo — mapeia as escolas indígenas do estado.
+Observatório dos Professores Indígenas no Estado de São Paulo, mapeia as escolas indígenas do estado.
 `JavaScript` `Mapbox GL` `Docker`
 
 ### [Paciência](https://github.com/hericmr/paciencia)
@@ -46,22 +46,20 @@ Portal com produções audiovisuais de estudantes da Licenciatura Intercultural 
 - **Bibliotecas:** OpenCV, Pygame
 - **Ferramentas:** Git/GitHub, Linux
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hericmr&layout=compact&langs_count=6)
-
 ## Certificações
 
-- [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/certificates/a8bad3df-610c-4d32-9d61-a5ebff587112) — Harvard University (2025)
-- [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/certificates/9537dc35-e94f-4415-b755-8ccbf17f4540) — Harvard University (2023)
-- Python para Ciência de Dados — Universidade de São Paulo (USP), 40h (2024)
+- [CS50's Introduction to Cybersecurity](https://cs50.harvard.edu/certificates/a8bad3df-610c-4d32-9d61-a5ebff587112), Harvard University (2025)
+- [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/certificates/9537dc35-e94f-4415-b755-8ccbf17f4540), Harvard University (2023)
+- Python para Ciência de Dados, Universidade de São Paulo (USP), 40h (2024)
 
 ## Publicações
 
-- [Mudanças Climáticas: Deslizamentos na Baixada Santista e a Responsabilidade Socioambiental do Estado](https://doi.org/10.58422/releo2024.e1603) — com Leonardo Bernardes Guimarães e Edson Ricardo Saleme. Leopoldianum, 2024.
-- [Alienação e Automação: O Impacto das IAs e do GPT no Mundo do Trabalho](https://contrapoder.net/artigo/alienacao-e-automatizacao-o-impacto-das-ias-e-do-gpt-no-mundo-do-trabalho/) — Contrapoder, 2024.
+- [Mudanças Climáticas: Deslizamentos na Baixada Santista e a Responsabilidade Socioambiental do Estado](https://doi.org/10.58422/releo2024.e1603), com Leonardo Bernardes Guimarães e Edson Ricardo Saleme. Leopoldianum, 2024.
+- [Alienação e Automação: O Impacto das IAs e do GPT no Mundo do Trabalho](https://contrapoder.net/artigo/alienacao-e-automatizacao-o-impacto-das-ias-e-do-gpt-no-mundo-do-trabalho/), Contrapoder, 2024.
 
 ## Formação
 
-- **Bacharelado em Serviço Social** — Universidade Federal de São Paulo (UNIFESP), conclusão prevista para julho de 2026
+- **Bacharelado em Serviço Social**, Universidade Federal de São Paulo (UNIFESP), conclusão prevista para julho de 2026
 
 ## Contato
 
